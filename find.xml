@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Current File" />
-    <option name="defaultScopeName" value="Current File" />
-    <option name="SEARCH_SCOPE" value="Current File" />
+    <option name="customScope" value="File '/Users/Roger/IdeaProjects/Game Of The Amazons/src/group4/gameoftheamazons/logic/LogicBoard.java'" />
+    <option name="defaultScopeName" value="File '/Users/Roger/IdeaProjects/Game Of The Amazons/src/group4/gameoftheamazons/logic/LogicBoard.java'" />
+    <option name="SEARCH_SCOPE" value="File '/Users/Roger/IdeaProjects/Game Of The Amazons/src/group4/gameoftheamazons/logic/LogicBoard.java'" />
   </component>
 </application>
